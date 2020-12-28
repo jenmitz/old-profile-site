@@ -1,2 +1,14 @@
-# old-profile-site
-the code for my first personal website, which is no longer live on my website
+# Personal Web Page
+This is a small personal site that is in a fairly constant state of being improved and worked on.
+
+# Current Features
+- HTML, CSS, & Bootstrap
+- Brief description of myself
+- My up-to-date resume
+- Access to my GitHub and LinkedIn pages via links
+
+# Upcoming Features
+- Javascript implementation
+
+# Possible Features
+- Working contact form
